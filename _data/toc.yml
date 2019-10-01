@@ -16,7 +16,7 @@
         - title: Quizzes
           url: "docs/extras/example-quiz"
     - title: "Azure Storage"
-      url : "docs/getting-started#getting-started"
+      url : "docs/azure-storage"
     - title: "About"
       url: "about"
     - title: "News"
